@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 CIFAR-10 Vision Classifier 
+# 🔍 CIFAR-10 Vision Classifier  
 
 ### Image Classification using MobileNetV2 Transfer Learning
 
