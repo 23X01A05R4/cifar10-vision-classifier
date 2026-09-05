@@ -2,7 +2,7 @@
 
 # 🔍 CIFAR-10 Vision Classifier  
 
-### Image Classification using MobileNetV2 Transfer Learning
+### Image Classification using MobileNetV2 Transfer Learning 
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.21-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
